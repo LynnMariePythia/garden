@@ -1,0 +1,13 @@
+---
+title: "Urgent Need for Ecosystem Restoration"
+date: 2022-05-23
+draft: false
+tags:
+  - living-systems-investing
+---
+
+This following linked article called "Why Ecosystem Restoration" was written by Desiree Driesenaar and this is a bit more about her: Biomimicry. Systemic Design. Abundance. Writer. Keynote speaker. Educator. She discusses the need to nourish and take care of the earth and how we need to move from 2D to 3D solutions using permaculture and agroforestry techniques. Her article was in the newsletter called "Abundanism/Combining complexity with simplicity. Redesigning human systems with abundance and biomimicry."
+
+[https://www.linkedin.com/pulse/why-ecosystem-restoration-desiree-driesenaar/?trackingId=%2B26mICbbw7GqJhoJxoTiwA%3D%3D](https://www.linkedin.com/pulse/why-ecosystem-restoration-desiree-driesenaar/?trackingId=%2B26mICbbw7GqJhoJxoTiwA%3D%3D)
+
+This article is one of the best articles I have read in a long time. It should be required reading. Desiree's ideas are not iterative for the world, but revolutionary. Her article describes a complete rethink of our global communities Mother Nature style. Her ideas are also compatible with advanced science and math such as complexity science, chaos theory, and quantum science. What is not compatible is our current global economic paradigm based on flawed science and math. Our current economic models based on scarcity are flawed and need to change. Natural intelligence is the key to upgrading these models as well. Following natural intelligence is key to everything we need to change in this world, including the intense polarization across many complex global problems. Her article does a fantastic job of describing these necessary changes across industries using wisdom from nature. She cites many good examples, such as the scale arguments people usually use when saying permaculture (a type of sustainable agroforestry framework) principles cannot work in a scalable way to solve complex interrelated problems. It is true that implementing permaculture for systemic change requires rethinking how we currently view capitalism. Capitalism itself is not the problem but the flawed way we think about it and the flawed linear math of current economic theories (where exceptions to the rule are considered normal). Win/win solutions require nonlinear math to understand for the logical people in the room that want proof of all these things that sound too esoteric. Natural intelligence is not linear. It is spherical. It requires spherical thinking to understand. As Desiree describes, living systems have movement, flow, chaos, vortices...They are not static.

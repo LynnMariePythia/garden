@@ -1,0 +1,25 @@
+---
+title: "Grid Reliability Issues with Solar and Wind"
+date: 2023-05-10
+draft: false
+tags:
+  - living-systems-investing
+---
+
+The polarization between left and right political ideologies is at an extreme right now and is getting in the way of sensible people asking questions that normally would be automatic across many areas of society right now.   The natural intelligence I have researched and continue to discuss is the third weaving force that can help bring these disparate worlds together in sensible, down to earth ways that are not happening now. It is a way to restore a certain level of critical thinking and general curiosity for the unknown that has been lost lately. It is literally costing people their careers just to share their own opinions. The gas lighting is at an all-time extreme.
+
+When I talk about using complex systems science to help guide investment decisions, people usually think it is too complex.   Yes, it is true complex systems are by definition complex. However, there are known ways that energy flows (think laws of physics) and there are known ways or norms in terms of how people usually interrelate and communicate that we need to restore to work through the blocks from all narrative shaping agendas that have consumed the environmental movement. The environmental movement has been completely consumed by the carbon reductionism hysteria. I am not saying that the weather in not unstable. That is a whole other conversation. The black and white polarization and name calling, however, from both the far left and right is completely counterproductive.
+
+Even the simplest amount of due diligence can help move a person beyond this reductionist narrative. In all my years in the investment world, I have never seen anything like what I see now. People are only reading what their "group" or side reads and passing along twitter (or other social media posts) without probing any deeper just because some elite professor, scientist or think tank utters something.
+
+There are so many unknowns no matter what for the emerging chaos of these interrelated complex crises. The last thing we need is all this name calling and false certainty of top down narratives that do not pass the simplest level of downstream due diligence.
+
+I originally started Pythia Capital to help knock down walls between the healthcare and environmental space because I felt that many common health problems do not require expensive biotech drugs but are largely the result of either emotional or environmental toxicities. To address these complex issues, we need to restore our ability to really listen to the perspectives of diverse people, think critically and re-examine our concepts of what being an expert truly means. Siloed experts are still very influential, but that is changing very fast. It can be very humbling but the rewards of interdisciplinary sharing are too great. AI is only pushing this direction even faster.
+
+Many of the common acronyms people use are helping people create simple mental models to understand things but are actually dumbing people down regarding asking the right questions and connecting the dots across fields and siloes. You can't solve problems by too narrowly defining the problem. For example, words like "de-growth" are used to describe a movement and narrative by elite groups who feel we are living beyond ecological constraints, but these words often lack balance and coherence without explaining proper context. Understanding concepts of growth and de-growth and their relationship to ecology and economics requires a deeper conversation about cycles and the relationship of cycles to economics and ecology. Otherwise, the unintended consequences to society could potentially be quite large, especially to people that are in lower socioeconomic brackets.
+
+Basically, how in society do we start to question our mental heuristics that are dumbing people down and polarizing people? What do we hear or read 24 hours a day on all media types all over the world that are polarizing people?   What exactly is this doing to our brains?   There is science here to consider. What does fear propaganda do to human brains? What does fear propaganda do to our immune systems that no vaccine in the world can fix?
+
+Here is an article by a grid expert. You can see for yourself the danger of these narrative shaping agendas that are creating mental heuristics in large parts of the population that are, by definition, polarizing sides for points of view on various complex issues. The wisdom of natural intelligence provides techniques and possibilities for magnetically attracting diverse people together to start to break down these walls by asking simple questions with a willingness to hear what people with different backgrounds have to say.   You have to start somewhere. How about here.   Forget your think tank or group for a minute or two and join us in the creative liminal space for exploration.
+
+[Planning engineer Russell Schussler](https://judithcurry.com/2023/05/03/silence-of-the-grid-experts/)

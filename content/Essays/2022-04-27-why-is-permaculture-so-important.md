@@ -1,0 +1,9 @@
+---
+title: "Why is Permaculture So Important?"
+date: 2022-04-27
+draft: false
+tags:
+  - living-systems-investing
+---
+
+I have received a number of questions from people on why I am so infatuated with permaculture as my model for how to regenerate capitalism. Many people are waking up to the limitations of our current winner/take all model for capitalism and also to the limits of the  current sustainable and impact investment strategies. The predominant impact and sustainable investment strategies are linear, zero-sum game strategies  similar to regular investment strategies. This is not the revolutionary catalyst we need to address the complex, interrelated problems in our world. However, it is an exciting trend that so many people are actively participating to change the  existing predatory financial practices. There are numerous creative and inspiring ways for  people to work together to create the exponential change we need today using natural intelligence as an inspiration and a guide. We move from iterative to revolutionary change following this path that nature lays out for us. Greenwashing and "narrative shaping" are far more difficult using a natural framework like this. There are billions of years of evolution and the wisdom of the ancients guiding us on this path. One does not own or invent something like permaculture. They are principles that help us understand very deeply who we really are, how we are connected to each other and to nature. Advances in science and technology like complexity science, chaos theory, quantum science, and nonlinear mathematics are confirming this ancient natural wisdom. I thought it was time to shed light on this important subject, at least from my point of view.
