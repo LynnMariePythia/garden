@@ -5,7 +5,7 @@ title: "Essays"
 # Essays
 ## Nine Years of Writing (2016-2025)
 
-*Subscribe via [RSS feed](/index.xml) to get new essays in your reader.* 
+*Subscribe via [RSS feed](/index.xml) to get new essays in your reader or Subscribe via [Buttondown newsletter](https://buttondown.com/LynnMarie)
 
 This section contains all my blog posts in chronological order. Browse by date, search by topic, or follow the connections between ideas through wiki-links.
 

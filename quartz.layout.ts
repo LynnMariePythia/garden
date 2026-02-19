@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "RSS Feed": "/index.xml",
+      "Subscribe": "https://buttondown.com/LynnMarie",
       "Privacy Policy": "https://edge.pythiacapital.io/privacy",
       "Terms of Use": "https://edge.pythiacapital.io/terms",
       "Disclaimer": "https://edge.pythiacapital.io/disclaimer",
