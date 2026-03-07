@@ -43,7 +43,7 @@ The Living Systems Investing methodology. How permaculture principles, complexit
 
 Learn about [The Pythia Scrolls](https://edge.pythiacapital.io) - ongoing coherence analysis and pattern recognition for edge investors and founders.
 
-Learn about [Hub & Spoke Investing](https://edge.pythiacapital.io) - regenerative capital structures for breakthrough innovation.
+Learn about [Edge of Chaos Collective](https://edge.pythiacapital.io/collective) - a community for builders and supporters restoring coherence at the edges.
 
 ---
 
