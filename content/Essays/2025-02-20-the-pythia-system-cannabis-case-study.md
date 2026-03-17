@@ -1,7 +1,6 @@
 ---
 title: "Phoenix Investing: Cannabis Investing Case Study"
 date: 2025-02-20
-draft: false
 tags:
   - living-systems-investing
   - case-studies

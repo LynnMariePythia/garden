@@ -1,7 +1,6 @@
 ---
 title: "Launching The Pythia System: Actionable Complex Systems Investing Trends Research at the Edge of Chaos for Visionary Investors"
 date: 2025-02-18
-draft: false
 tags:
   - living-systems-investing
   - the-pythia-system

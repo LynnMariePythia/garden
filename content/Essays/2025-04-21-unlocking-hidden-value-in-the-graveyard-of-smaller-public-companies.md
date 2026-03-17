@@ -1,7 +1,6 @@
 ---
 title: "Unlocking Hidden Value in the Graveyard of Smaller Public Companies"
 date: 2025-04-21
-draft: false
 tags:
   - living-systems-investing
   - phoenix-investing

@@ -1,7 +1,6 @@
 ---
 title: "Nash Equilibrium-Complex Systems Investing-Phoenixes Rising"
 date: 2025-04-11
-draft: false
 tags:
   - living-systems-investing
   - phoenix-investing

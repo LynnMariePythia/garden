@@ -1,7 +1,6 @@
 ---
 title: "A Note Before You Read: Weather as a Mirror"
 date: 2026-03-17
-draft: false
 tags: [essays, vision, coherence, living-systems]
 ---
 
