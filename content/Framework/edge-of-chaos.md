@@ -1,3 +1,8 @@
+---
+title: "Edge of Chaos"
+date: 2026-02-06
+tags: [framework, edge-of-chaos, living-systems]
+---
 # The Edge of Chaos
 ## Where Innovation Emerges from Uncertainty
 

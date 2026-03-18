@@ -1,3 +1,8 @@
+---
+title: "12 Permaculture Principles"
+date: 2026-02-06
+tags: [framework, permaculture, living-systems]
+---
 # The 12 Permaculture Principles Applied to Investing
 
 ## How Natural Intelligence Guides Our Investment Process

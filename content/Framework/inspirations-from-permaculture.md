@@ -1,3 +1,8 @@
+---
+title: "Inspirations from Permaculture"
+date: 2026-02-06
+tags: [framework, permaculture, living-systems]
+---
 # Pythia Capital's Complex Systems Investing Principles
 ## Inspired by Nature's Autopoietic Intelligence
 

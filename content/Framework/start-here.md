@@ -1,5 +1,7 @@
 ---
 title: "Start Here"
+date: 2026-02-06
+tags: [framework, living-systems]
 ---
 
 # Start Here
