@@ -1,4 +1,13 @@
+---
+​---
+title: "What I Saw in 2022 - Vision Document"
+date: 2026-02-07
+tags: [vision, coherence, investing, living-systems]
+​---
+---
+
 # What I Saw in 2022
+
 ## When Living Systems Meet Capital Markets
 
 In March 2022, I published a small ebook called *Permaculture and Investing: 12 Principles for Regenerative Capital*. At the time, most people in finance thought I was being too philosophical. The market was still drunk on cheap money. Growth-at-all-costs was gospel. ESG was the darling of institutional investors.
