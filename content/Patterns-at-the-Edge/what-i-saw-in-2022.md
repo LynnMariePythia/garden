@@ -1,9 +1,7 @@
 ---
-​---
 title: "What I Saw in 2022 - Vision Document"
 date: 2026-02-07
 tags: [vision, coherence, investing, living-systems]
-​---
 ---
 
 # What I Saw in 2022

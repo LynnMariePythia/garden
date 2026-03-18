@@ -1,9 +1,7 @@
 ---
-​---
 title: "Weather as a Mirror - Vision Document"
 date: 2026-03-16
 tags: [vision, coherence, climate, living-systems]
-​---
 ---
 
 # Weather as a Mirror - Vision Document
