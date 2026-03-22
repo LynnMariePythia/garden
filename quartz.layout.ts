@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "Edge of Chaos Collective": "https://edge.pythiacapital.io/collective",
       "RSS Feed": "/index.xml",
       "Subscribe": "https://buttondown.com/LynnMarie?tag=Garden",
-      "Privacy Policy": "https://edge.pythiacapital.io/privacy",
+      "Privacy Policy": "https://edge.pythiacapital.io/services-privacy",
       "Disclaimer": "https://edge.pythiacapital.io/disclaimer",
       "Contact": "mailto:pythiacapital@gmail.com",
     },
