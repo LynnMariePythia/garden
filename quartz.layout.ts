@@ -13,7 +13,6 @@ export const sharedPageComponents: SharedLayout = {
       "RSS Feed": "/index.xml",
       "Subscribe": "https://buttondown.com/LynnMarie?tag=Garden",
       "Privacy Policy": "https://edge.pythiacapital.io/privacy",
-      "Terms of Use": "https://edge.pythiacapital.io/terms",
       "Disclaimer": "https://edge.pythiacapital.io/disclaimer",
       "Contact": "mailto:pythiacapital@gmail.com",
     },
