@@ -41,9 +41,11 @@ The Living Systems Investing methodology. How permaculture principles, complexit
 
 **Explore our services:** [edge.pythiacapital.io](https://edge.pythiacapital.io)
 
-Learn about [The Pythia Scrolls](https://edge.pythiacapital.io) - ongoing coherence analysis and pattern recognition for edge investors and founders.
+Learn about [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls) - LSI coherence research, micro-trends intelligence, and curated investment opportunities across public markets, crypto, and private companies for visionary investors.
 
 Learn about [Edge of Chaos Collective](https://edge.pythiacapital.io/collective) - a community for builders and supporters restoring coherence at the edges.
+
+Interested in becoming a founding member, a collaboration, or strategic opportunities? [Reach out directly](mailto:team@pythiacapital.io).
 
 ---
 

@@ -11,10 +11,11 @@ export const sharedPageComponents: SharedLayout = {
       "The Pythia Scrolls": "https://edge.pythiacapital.io/scrolls",
       "Edge of Chaos Collective": "https://edge.pythiacapital.io/collective",
       "RSS Feed": "/index.xml",
-      "Subscribe": "https://buttondown.com/LynnMarie?tag=Garden",
+      "The Coherence Lab Letter": "https://buttondown.com/LynnMarie?tag=Garden",
+      "Support the Garden": "https://bit.ly/4rUPYjK",
       "Privacy Policy": "https://edge.pythiacapital.io/services-privacy",
       "Disclaimer": "https://edge.pythiacapital.io/disclaimer",
-      "Contact": "mailto:pythiacapital@gmail.com",
+      "Contact": "mailto:team@pythiacapital.io",
     },
   }),
 }
