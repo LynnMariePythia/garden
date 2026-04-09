@@ -50,9 +50,13 @@ You won't find hot takes or quick predictions there. You'll find synthesis that 
 
 The Scrolls are written for minds that can hold layers and appreciate the difference between surface trends and true coherence. If that way of seeing resonates with you, they are designed as a quiet space for exactly that kind of exploration.
 
-*The Pythia Scrolls are available at [edge.pythiacapital.io](https://edge.pythiacapital.io)*
+---
+
+This essay is an excerpt from my ongoing Liminal Space Investing Scroll which is an LSI (Living Systems Investing) trends series exploring structural inversions in once-dominant systems and the coherent alternatives that may emerge. We do not have to wait for the old system to completely collapse before we begin building coherent alternatives.
+
+The full recursive version, along with the broader scrolls series, lives in my new service called [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls).
 
 ---
 
-*Full research available in [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls) service filed under: Liminal Space Investing · Corporate Corruption and Safety Risks · What the Lens Shows*
+*Full research available in [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls) service filed under: Liminal Space Investing: Corporate Corruption and Safety Risks*
 
