@@ -1,5 +1,6 @@
 ---
 title: "Framework"
+rssInclude: false
 ---
 
 # Framework
