@@ -1,6 +1,5 @@
 ---
 title: "Essays"
-rssInclude: false
 ---
 
 # Essays

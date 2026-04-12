@@ -1,6 +1,5 @@
 ---
 title: "Patterns at the Edge"
-rssInclude: false
 ---
 
 # Patterns at the Edge
