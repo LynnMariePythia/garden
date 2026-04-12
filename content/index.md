@@ -1,6 +1,7 @@
 
 ---
 title: "Lynn Marie's Digital Garden"
+date: 2000-01-01
 rssInclude: false
 ---
 

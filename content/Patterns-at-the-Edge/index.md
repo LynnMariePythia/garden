@@ -1,5 +1,6 @@
 ---
 title: "Patterns at the Edge"
+date: 2000-01-01
 rssInclude: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Framework"
+date: 2000-01-01
 rssInclude: false
 ---
 
