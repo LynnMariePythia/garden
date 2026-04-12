@@ -1,5 +1,8 @@
 
+---
 title: "Lynn Marie's Digital Garden"
+rssInclude: false
+---
 
 ![Pythia Capital](../static/logo.png)
 
