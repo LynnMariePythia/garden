@@ -42,13 +42,17 @@ The Living Systems Investing methodology. How permaculture principles, complexit
 
 ## Interested in Working Together?
 
-**Explore our services:** [edge.pythiacapital.io](https://edge.pythiacapital.io)
+**Explore Living Systems Investing ("LSI") services at Pythia Capital designed to unblock flow for edge entrepreneurs focused on restoring individual sovereignty and collective vitality:** [edge.pythiacapital.io](https://edge.pythiacapital.io)
 
-Learn about [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls) - LSI coherence research, micro-trends intelligence, and curated investment opportunities across public markets, crypto, and private companies for visionary investors.
+Learn about [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls) - LSI coherence research, micro-trends intelligence, and curated investment opportunities across public markets, crypto, and private companies for visionary investors. Enrolling now for founding members.
 
-Learn about [Edge of Chaos Collective](https://edge.pythiacapital.io/collective) - a community for builders and supporters restoring coherence at the edges.
+Learn about [Edge of Chaos Collective](https://edge.pythiacapital.io/collective) - a community for explorers, builders, and enablers restoring coherence at the edges.
 
 Interested in becoming a founding member, a collaboration, or strategic opportunities? [Reach out directly](mailto:team@pythiacapital.io).
+
+---
+
+Subscribe via [RSS feed](https://garden.pythiacapital.io/index.xml) to get new essays in your reader or subscribe by email via [The Coherence Lab Letter](https://buttondown.com/LynnMarie)
 
 ---
 
