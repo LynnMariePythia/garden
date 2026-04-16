@@ -40,7 +40,7 @@ The Living Systems Investing methodology. How permaculture principles, complexit
 
 ---
 
-## Interested in Working Together?
+## Ready to Go Deeper?
 
 **Explore Living Systems Investing ("LSI") services at Pythia Capital designed to unblock flow for edge entrepreneurs focused on restoring individual sovereignty and collective vitality:** [edge.pythiacapital.io](https://edge.pythiacapital.io)
 
