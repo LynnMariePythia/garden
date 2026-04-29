@@ -41,3 +41,8 @@ We do not have to wait for Meta (or any single player) to collapse. We can begin
 ***The old extractive loop loses power the moment enough people and businesses choose a different path.***
 
 If you would like to go deeper, I am looking for founding members to my new LSI investing trends service: [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls)
+
+---
+
+Enjoy this? Get the Coherence Lab Letter delivered to your inbox → [subscribe link](https://buttondown.com/LynnMarie?tag=Garden)
+

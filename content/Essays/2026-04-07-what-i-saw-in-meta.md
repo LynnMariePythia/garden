@@ -60,3 +60,9 @@ The full recursive version, along with the broader scrolls series, lives in my n
 
 *Full research available in [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls) service filed under: Liminal Space Investing: Corporate Corruption and Safety Risks*
 
+---
+
+Enjoy this? Get the Coherence Lab Letter delivered to your inbox → [subscribe link](https://buttondown.com/LynnMarie?tag=Garden)
+
+
+

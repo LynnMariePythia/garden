@@ -32,3 +32,7 @@ If it calls, come in. No pressure. 🌿
 *Founder and CEO, [Pythia Capital](https://edge.pythiacapital.io)*
 *March 2026*
 
+---
+
+Enjoy this? Get the Coherence Lab Letter delivered to your inbox → [subscribe link](https://buttondown.com/LynnMarie?tag=Garden)
+
