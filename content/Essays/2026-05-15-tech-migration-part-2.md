@@ -6,7 +6,7 @@ tags: [tech-stack, living-systems, open-source, data-sovereignty, decentralizati
 
 # What the Living Systems Lens Actually Selects For
 
-*This is the second in a short series on my tech stack migration for my digital garden. The first essay, [[2026-05-04-security-by-design]], described the problem — layered SaaS, fragmented data, regulatory complexity, and the extractive architecture underneath all of it. This essay is about how I actually chose what to build with instead.*
+*This is the second in a short series on my tech stack migration for Pythia Capital. The first essay, [[2026-05-04-security-by-design]], described the problem — layered SaaS, fragmented data, regulatory complexity, and the extractive architecture underneath all of it. This essay is about how I actually chose what to build with instead.*
 
 ---
 
