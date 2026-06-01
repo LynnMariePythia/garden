@@ -6,7 +6,7 @@ tags: [tech-stack, AI-collaboration, edge-founder, living-systems, sovereignty, 
 
 # What I Actually Learned — The Human Testimony
 
-*This is the third in a short series on my tech stack migration for my digital garden. The first essay, [[2026-05-04-security-by-design]], described the problem. The second, [[2026-05-15-tech-migration-part-2]], described how I chose the new stack. This essay is something different: what it actually felt like from the inside, and what I discovered that I did not expect.*
+*This is the third in a short series on my tech stack migration for [Pythia Capital](https://edge.pythiacapital.io). The first essay, [[2026-05-04-security-by-design]], described the problem. The second, [[2026-05-15-tech-migration-part-2]], described how I chose the new stack. This essay is something different: what it actually felt like from the inside, and what I discovered that I did not expect.*
 
 ---
 
