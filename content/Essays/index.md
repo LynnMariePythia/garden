@@ -4,7 +4,7 @@ date: 2000-01-01
 ---
 
 # Essays
-## Nine Years of Writing (2016-2025)
+## A Decade of Writing (2016-2026)
 
 *Subscribe via [RSS feed](/index.xml) to get new essays in your reader or Subscribe via [The Coherence Lab Letter](https://buttondown.com/LynnMarie?tag=Garden)
 
@@ -13,8 +13,10 @@ This section contains all my blog posts in chronological order. Browse by date, 
 **Topics explored:**
 
 - Living Systems Investing methodology
+- Coherence vs. extractive architecture
 - Permaculture principles in business
 - Complex adaptive systems
+- Technology sovereignty and infrastructure design
 - Edge entrepreneurs and polymaths
 - Microbiome and regenerative health
 - Phoenix investing

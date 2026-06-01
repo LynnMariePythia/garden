@@ -8,9 +8,9 @@ date: 2000-01-01
 
 # Welcome to My Digital Garden
 
-I'm Lynn Marie DePippo, founder of Pythia Capital. I've spent 25+ years in finance discovering that the most creative solutions to complex problems emerge at the edge of chaos. This garden documents that journey.
+I'm Lynn Marie DePippo, founder of Pythia Capital. I've spent 30 years in finance discovering that the most creative solutions to complex problems emerge at the edge of chaos. This garden documents that journey.
 
-Here you'll find nine years of thinking, pattern recognition, and exploration into Living Systems Investing - a methodology that applies nature's principles to business development and capital allocation.
+Here you'll find a decade of thinking, pattern recognition, and exploration into Living Systems Investing - a methodology that applies nature's principles to business development and capital allocation.
 
 ---
 

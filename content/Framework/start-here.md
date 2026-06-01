@@ -5,7 +5,7 @@ tags: [framework, living-systems]
 ---
 
 # Start Here
-## A Curated Path Through Nine Years of Thinking at the Edge
+## A Curated Path Through a Decade of Thinking at the Edge
 
 If you're new to this garden, welcome. This page offers a guided path through the essays that best represent Living Systems Investing — where it came from, how it works, and what it sees that conventional analysis cannot.
 
