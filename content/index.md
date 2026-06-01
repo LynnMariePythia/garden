@@ -30,7 +30,7 @@ On being at the edge, and why that's where transformation happens.
 ## Explore the Garden
 
 ### [[Essays/index|Essays]]
-Nine years of writing (2016-2025). Browse chronologically or search by topic. This is where I keep adding new thinking as it emerges.
+A decade of writing (2016-2026). Browse chronologically or search by topic. This is where I keep adding new thinking as it emerges.
 
 ### [[Patterns-at-the-Edge/index|Patterns at the Edge]]
 Vision pieces and trend observations. What I'm seeing at the edges of chaos, and why coherence matters more than prediction.
