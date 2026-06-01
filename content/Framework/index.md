@@ -16,7 +16,7 @@ It's not about ESG compliance or impact investing buzzwords. It's about understa
 
 **New to LSI?** Start here:
 
-**[[start-here|Start Here]]** - A curated path through nine years of thinking  
+**[[start-here|Start Here]]** - A curated path through a decade of thinking  
 **[[edge-of-chaos|The Edge of Chaos]]** - Why we operate at the boundaries where innovation emerges  
 **[[12-permaculture-principles|12 Permaculture Principles]]** - The complete framework with applications to investing  
 
