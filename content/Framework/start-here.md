@@ -23,14 +23,14 @@ Why I rebuilt my entire technology infrastructure from scratch — and what that
 **[[2026-05-15-tech-migration-part-2|What the Living Systems Lens Actually Selects For]]** (May 2026)
 The framework in motion. Sovereignty, modularity, and resilience as investment criteria — demonstrated through the actual decisions I made building this infrastructure. The principles travel across domains. This essay shows how.
 
-**[[2026-05-28-tech-migration-part-3|What I Actually Learned — The Human Testimony]]** (May 2026)
+**[[2026-05-29-tech-migration-part-3|What I Actually Learned — The Human Testimony]]** (May 2026)
 What building this actually felt like from the inside, and why the edge founder — the non-linear thinker who always had the ideas but never had the infrastructure — is the person this methodology is designed to serve.
 
 ---
 
 ## The Lens Applied to Markets
 
-**[[what-i-saw-in-meta|What I Saw in Meta — And What the Lens Keeps Showing]]** (2026)
+**[[2026-04-07-what-i-saw-in-meta|What I Saw in Meta — And What the Lens Keeps Showing]]** (2026)
 In November 2022, I was asking different questions about Meta than most analysts were. This essay revisits those questions, what the 2026 jury verdicts confirmed, and why the coherence lens surfaces fractures that conventional analysis cannot see until they arrive.
 
 **[[../Patterns-at-the-Edge/what-i-saw-in-2022|What I Saw in 2022]]** (2022, annotated)
