@@ -32,4 +32,4 @@ This section contains all my blog posts in chronological order. Browse by date, 
 
 ---
 
-*Posts appear below in reverse chronological order (newest first)*
+**Browse below — newest essays appear first.**

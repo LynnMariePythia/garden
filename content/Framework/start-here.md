@@ -36,6 +36,9 @@ In November 2022, I was asking different questions about Meta than most analysts
 **[[../Patterns-at-the-Edge/what-i-saw-in-2022|What I Saw in 2022]]** (2022, annotated)
 The original track record document — written in early 2022 and preserved with its original dates intact, then annotated with what happened. The clearest proof of concept I have for how early pattern recognition works in practice.
 
+**[[2026-04-24-barbell-energy-innovation|The Barbell and the Map]]** (April 2026)
+Geography never went away — the globalist era just made it easy to forget. This essay maps the dual-scale energy architecture emerging from first principles: orbital solar abundance at one end, terrain-rooted distributed resilience at the other. The LSI coherence test applied to one of the most consequential capital allocation questions of the next decade.
+
 ---
 
 ## Where the Framework Came From
@@ -48,6 +51,9 @@ On polymaths, edge thinkers, and why the system excludes the very people who can
 
 **[[../Essays/2017-03-23-new-investment-models-needed-solve-important-problems|New Investment Models Needed to Solve Important Problems]]** (2017)
 Why traditional finance fails to support breakthrough innovation — and what's required instead. The earliest public statement of the problem.
+
+**[[2016-11-22-237|What is the True Essence of a Unicorn]]** (2016)
+My first published piece — a fairy tale about business and investing that came through me, not from me. I was terrified to publish it. Looking back, it was the seed of everything that followed. The dream that became this digital garden and LSI principles.
 
 ---
 

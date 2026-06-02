@@ -18,7 +18,7 @@ It's not about ESG compliance or impact investing buzzwords. It's about understa
 
 **[[start-here|Start Here]]** - A curated path through a decade of thinking  
 **[[edge-of-chaos|The Edge of Chaos]]** - Why we operate at the boundaries where innovation emerges  
-**[[12-permaculture-principles|12 Permaculture Principles]]** - The complete framework with applications to investing  
+**[[12-permaculture-principles|12 Permaculture Principles]]** - The core framework with applications to investing
 
 ---
 
@@ -62,7 +62,7 @@ When we apply them to investing:
 
 ## Going Deeper
 
-Explore the complete methodology through the [[../Essays/index|Essays]] - nine years of developing, refining, and applying these principles in practice.
+Explore the complete methodology through the [[../Essays/index|Essays]] - A decade of developing, refining, and applying these principles in practice.
 
 Or dive into [[../Patterns-at-the-Edge/index|Patterns at the Edge]] to see coherence analysis in action.
 
