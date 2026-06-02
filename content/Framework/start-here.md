@@ -52,7 +52,7 @@ On polymaths, edge thinkers, and why the system excludes the very people who can
 **[[../Essays/2017-03-23-new-investment-models-needed-solve-important-problems|New Investment Models Needed to Solve Important Problems]]** (2017)
 Why traditional finance fails to support breakthrough innovation — and what's required instead. The earliest public statement of the problem.
 
-**[[2016-11-22-237|What is the True Essence of a Unicorn]]** (2016)
+**[[2016-11-22-What is the True Essence of a Unicorn]]** (2016)
 My first published piece — a fairy tale about business and investing that came through me, not from me. I was terrified to publish it. Looking back, it was the seed of everything that followed. The dream that became this digital garden and LSI principles.
 
 ---

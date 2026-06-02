@@ -22,7 +22,7 @@ New to the garden? The **[[Framework/start-here|Start Here]]** page offers a cur
 
 ## Recent Essays
 
-**[[Essays/2026-05-28-tech-migration-part-3|What I Actually Learned — The Human Testimony]]** (May 2026)
+**[[Essays/2026-05-29-tech-migration-part-3|What I Actually Learned — The Human Testimony]]** (May 2026)
 What building a sovereignty-first research infrastructure actually felt like from the inside — and what it revealed about coherent AI collaboration, edge founder intelligence, and why the principles travel across every domain.
 
 **[[Essays/2026-04-24-barbell-energy-innovation|The Barbell and the Map]]** (April 2026)
