@@ -13,6 +13,13 @@ You can follow this path, or wander. Either way, you'll find the connections.
 
 ---
 
+## If You Read One Essay
+
+**[[../Essays/2026-11-07-new-investment-models-needed-the-whole-capital-stack|New Investment Models Needed, Revisited: Structure Across the Whole Capital Stack]]** (November 2026)
+Nine years after the 2017 essay, the record has caught up with it. A walk through every layer of capital, from first money to family offices, and why structure dictates value. It links outward to much of the work on this page, so it makes a good map before you wander.
+
+---
+
 ## Begin Here — The Framework in Action (2026)
 
 These three essays are the clearest recent expression of how the Living Systems lens works in practice. They were written as a series and are best read in order.
@@ -50,7 +57,7 @@ From investment analyst to Oracle. Why I left traditional finance, what I learne
 On polymaths, edge thinkers, and why the system excludes the very people who can solve its most complex problems. My most comprehensive piece on the structural problem this work exists to address.
 
 **[[../Essays/2017-03-23-new-investment-models-needed-solve-important-problems|New Investment Models Needed to Solve Important Problems]]** (2017)
-Why traditional finance fails to support breakthrough innovation — and what's required instead. The earliest public statement of the problem.
+Why traditional finance fails to support breakthrough innovation — and what's required instead. The earliest public statement of the problem, *revisited in 2026 above.*
 
 **[[2016-11-22-What is the True Essence of a Unicorn]]** (2016)
 My first published piece — a fairy tale about business and investing that came through me, not from me. I was terrified to publish it. Looking back, it was the seed of everything that followed. The dream that became this digital garden and LSI principles.

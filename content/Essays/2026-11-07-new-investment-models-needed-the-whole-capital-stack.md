@@ -166,6 +166,12 @@ Venture, private equity and index investing each solved real problems, and many 
 
 ---
 
+This essay is one thread in a larger body of work. The Pythia Scrolls is where that work continues — reading coherence across public markets, private companies and crypto, theme by theme. If you’re investing your own capital directly and this way of reading structure resonates, have a look: [The Pythia Scrolls](https://edge.pythiacapital.io/scrolls). Founders and builders may find the [Edge of Chaos Collective](https://edge.pythiacapital.io/collective) the better fit.
+
+---
+
 *Related in the garden:* [[Essays/2017-03-12-chaos-really-bad-win-win-scenarios-really-possible-world-today|Is Chaos Really Bad? Are Win-Win Scenarios Really Possible? (2017)]] · [[Essays/2017-03-23-new-investment-models-needed-solve-important-problems|New Investment Models Needed to Solve Important Problems (2017)]] · [[Essays/2017-05-21-stay-focused-disciplined-many-exciting-distractions|How to Stay Focused and Disciplined With Many Exciting Distractions (2017)]] · [[Essays/2017-07-20-sustainable-investing-principles-enable-nash-equilibrium-optimalbest-outcome|Investing Using Complex Systems Principles Enable Nash Equilibrium (Optimal/Best Outcome) (2017)]] · [[Essays/2025-02-11-case-study-for-the-application-of-complex-systems-investing-principles-to-the-medical-technology-industry|Case Study: Complex Systems Investing Principles in Medical Technology (2025)]] · [[Essays/2025-04-11-phoenix-investing-complex-systems-principles-applied-to-micro-to-mid-capital-investing|Nash Equilibrium, Complex Systems Investing, Phoenixes Rising (2025)]]
 
 *More on the principles behind this lens: [Living Systems Investing principles](https://edge.pythiacapital.io/lsi-principles)*
+
+*Subscribe via [The Coherence Lab Letter](https://buttondown.com/LynnMarie?tag=Garden) here to get these garden essays by email.*
